@@ -1,0 +1,12 @@
+@media screen and (max-width: 992px){
+    .container{
+        display: row;
+    }
+
+    .btn_container{
+        display: grid;
+    }
+    button{
+        margin-top: 10px;
+    }
+}
