@@ -1,7 +1,7 @@
 # CountMe.
 
  
-A simple java application that allows the user to increase and decrease the value of the counter by one or by ten and give the option to reset value to 0.
+A simple javaScript application that allows the user to increase and decrease the value of the counter by one or by ten and give the option to reset value to 0.
 
 
 ## Description.
